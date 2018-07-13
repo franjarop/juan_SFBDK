@@ -1,0 +1,102 @@
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\SFDBK_Web_Estable.dll.config
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\SFDBK_Web_Estable.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\SFDBK_Web_Estable.pdb
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Antlr3.Runtime.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.SqlServer.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Newtonsoft.Json.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Owin.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\System.Web.Optimization.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\System.Web.Providers.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\WebGrease.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\System.Web.Optimization.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Antlr3.Runtime.pdb
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Newtonsoft.Json.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.SqlServer.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\obj\Debug\SFDBK_Web_Estable.csprojResolveAssemblyReference.cache
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\obj\Debug\SFDBK_Web_Estable.dll
+C:\Users\franjarop\Documents\Proyectos\SFDBK_Web_Estable\SFDBK_Web_Estable\obj\Debug\SFDBK_Web_Estable.pdb
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\SFDBK_Web_Estable.dll.config
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\SFDBK_Web_Estable.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\SFDBK_Web_Estable.pdb
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Antlr3.Runtime.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.SqlServer.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Newtonsoft.Json.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Owin.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\System.Web.Optimization.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\System.Web.Providers.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\WebGrease.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\System.Web.Optimization.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Antlr3.Runtime.pdb
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Newtonsoft.Json.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\EntityFramework.SqlServer.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\obj\Debug\SFDBK_Web_Estable.csprojResolveAssemblyReference.cache
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\obj\Debug\SFDBK_Web_Estable.dll
+C:\Users\bombo\Documents\Visual Studio 2015\Projects\SFDBK_Web_Estable\SFDBK_Web_Estable\obj\Debug\SFDBK_Web_Estable.pdb
