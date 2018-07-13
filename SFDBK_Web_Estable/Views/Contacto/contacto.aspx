@@ -80,5 +80,5 @@
 </script>
 
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRcyWmXJaMs-iXGjvAeHzE-l14XcXXJ-I&callback=myMap"></script>
+    <%--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRcyWmXJaMs-iXGjvAeHzE-l14XcXXJ-I&callback=myMap"></script>--%>
 </asp:Content>
